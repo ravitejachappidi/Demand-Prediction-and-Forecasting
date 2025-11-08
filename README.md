@@ -10,7 +10,9 @@ The rest of the columns are input variable.
 
 The prediction is basically a regression problem. The Code attempts different regression algorithms to train and test the data and get the best algorithm.
 
-As for forecasting, This project uses facebook's - Prophet and other statistical algorithms within python for forecasting.
+As for forecasting, This project used statistical algorithms within python for forecasting.
 It mainly uses just the date and store_id for grouping the data, and uses the algorithms for prediction.
 Here the testing data is same as training dataset with last 10% of the non trained data, for comparision of sales with forecasted model.
+
+
  
